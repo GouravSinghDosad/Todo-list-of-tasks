@@ -2,5 +2,5 @@
 A simple todo list app built in HTML, CSS and JavaScript.
 <br>
 
-![Uploading dashboard.png…]()
 
+![Uploading dashboard.png…]()
